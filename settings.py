@@ -9,7 +9,4 @@ PLAYER_POS = 1.5, 5 # Posição
 PLAYER_DIR = 1, 0 # Vetor Diretor Inicial
 PLAYER_SPEED = 0.15 # Velocidade de Movimento
 
-PLAYER_ANGLE = 0.0
 PLANO = 0.0, 0.66
-
-PLAYER_DIR_X, PLAYER_DIR_Y = PLAYER_DIR
