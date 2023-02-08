@@ -41,7 +41,3 @@ class Map:
             for j in range(len(self.mini_map[i])):
                 if self.mini_map[i][j]:
                     self.world_map[(j,i)] = self.mini_map[i][j]
-                    
-                    
-                    
-                    
